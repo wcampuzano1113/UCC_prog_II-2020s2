@@ -20,6 +20,6 @@ Proceso Ejercicio_de_entrenamiento_12
 		
 	FinSi
 	
-	Escribir "El valor final vale", k;
+	Escribir "El valor final vale: ", k;
 	
 FinProceso

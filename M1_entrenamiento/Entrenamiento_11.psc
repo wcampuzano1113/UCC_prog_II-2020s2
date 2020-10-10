@@ -9,7 +9,7 @@ Proceso Ejercicio_de_entrenamiento_11
 	Escribir "¿La Torre Eiffel está en Australia? ";
 	Leer b;
 	
-	s<-a>b;
+	s<-(a>b);
 	
 	Escribir "El valor final de la operación es: ", s;
 	
