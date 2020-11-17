@@ -1,0 +1,17 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+Ingrese cuanto mide el muro:
+10
+Ingrese cuanto avanza el caracol:
+1
+Ingrese cuanto avanza el cienpies:
+1
+Ingrese cuanto avanza el gusano:
+2
+El caracol tardarÝa 10 dÝas en subir el muro
+El cienpies tardarÝa 10 dÝas en subir el muro
+El gusano tardarÝa 5 dÝas en subir el muro

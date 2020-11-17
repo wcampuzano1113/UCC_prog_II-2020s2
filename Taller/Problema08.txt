@@ -1,0 +1,12 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+Ingrese cantidad de paginas escritas:
+40
+Ingrese el tiempo en minutos para calcular paginas:
+95
+El tiempo estimado para escribir 40.0 paginas es de 80.0 minutos
+Las paginas que se escribiran en 95.0 minutos son: 47.5

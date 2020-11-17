@@ -1,0 +1,11 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+Ingrese el valor de la hora laboral:
+2800
+Ingrese la cantidad de horas trabajadas:
+79
+Su Salario es de: 151760.0

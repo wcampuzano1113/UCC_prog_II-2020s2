@@ -1,0 +1,11 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+Inglaterra es un paÝ suramericano[0]...falso [1]...verdad?
+0
+Marie Currie invent¾ el radio?[0]...falso [1]...verdad
+0
+El valor final de la variable k es: false

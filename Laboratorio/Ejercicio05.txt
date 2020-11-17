@@ -1,0 +1,11 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+La tierra es un saelite?[0]...falso [1]...verdad
+0
+Azul es una obra literaria de Ruben Dario[0]...falso [1]...verdad?
+1
+El valor final de la variable k es: false

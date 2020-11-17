@@ -1,0 +1,13 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+Escriba la primera nota:
+4,0
+Escriba la segunta nota:
+3,5
+Escriba la tercera nota:
+5,0
+La nota definitiva es: 4.25

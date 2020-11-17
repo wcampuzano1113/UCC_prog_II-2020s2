@@ -1,0 +1,11 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+Ingrese el costo del artÝculo:
+40000
+Ingrese el efectivo del cliente:
+50000
+El cambio para el cliente es: 10000.0

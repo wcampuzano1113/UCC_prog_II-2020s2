@@ -1,0 +1,13 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+Ingrese el Nombre del trabajador:
+Carlos
+Ingrese el Valor de la hora de trabajo:
+2800
+Ingrese la cantidad de horas trabajadas:
+15
+El salario a pagar es: 42000.0

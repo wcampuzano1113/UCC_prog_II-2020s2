@@ -1,0 +1,9 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+Ingrese el numero que desea sumarle los digios:
+3854
+La suma de los digitos de 3854 es: 20

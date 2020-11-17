@@ -1,0 +1,15 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+Escriba el primer n·mero:
+5
+Escriba el segundo n·mero:
+9
+Los resultados son los siguientes:
+LA SUMA ES: 14
+LA RESTA ES: -4
+EL PRODUCTO ES: 45
+EL PROMEDIO ES: 7.0

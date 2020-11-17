@@ -1,0 +1,11 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+La tierra es redonda?[0]...falso [1]...verdad
+1
+Simon Bolivar libert¾ Panamß?[0]...falso [1]...verdad
+1
+El valor final de la variable k es: true

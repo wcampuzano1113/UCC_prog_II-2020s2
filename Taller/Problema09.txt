@@ -1,0 +1,15 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+Ingrese el valor de la hora laboral:
+2500
+Ingrese la cantidad de dÝas trabajados:
+5
+Ingrese la cantidad de horas trabajadas:
+22
+Su Salario es de: 137500.0
+El descuento de seguro social es de: 16500.0
+Su pago total serÝa de: 121000.0

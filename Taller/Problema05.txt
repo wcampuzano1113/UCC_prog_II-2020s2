@@ -1,0 +1,13 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+Escriba el nombre del empleado:
+Manolo
+Escriba el salario:
+800000
+Escriba el descuento:
+70000
+El valor a pagar es: 730000.0

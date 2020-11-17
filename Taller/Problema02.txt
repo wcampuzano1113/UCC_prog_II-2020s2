@@ -1,0 +1,9 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+Escriba un numero por favor
+158
+El cubo del n·mero es: 3944312.0

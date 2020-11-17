@@ -1,0 +1,8 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+El valor final de s es: true
+El valor final de s1 es: true

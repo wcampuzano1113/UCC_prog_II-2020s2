@@ -1,0 +1,9 @@
++---------------------------------------+
+|       Autor: Walter Campuzano         |
+|        Ingenieria Industrial          |
+|---------------------------------------|
+|                                       |
++---------------------------------------+
+Ingrese el numero que desea saber su valor absoluto:
+-550
+El valor absoluto del numero es: |550|
