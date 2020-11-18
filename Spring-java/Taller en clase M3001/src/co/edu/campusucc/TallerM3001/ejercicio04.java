@@ -25,46 +25,33 @@ public class ejercicio04 {
 			case "a":
 				System.out.println("Digite la cantidad solicitada por el cliente");
 				cant = leer.nextInt();
-				switch (cant) {
-					case 501:
-						valort=cant*500*1.7;
-						break;
-					case 500:
-						valort=cant*1000*1.9;
-						break;
-				default:
+				if (cant <= 501) {
+					valort=cant*500*1.7;
+				}else if (cant > 500) {
+					valort=cant*1000*1.9;
 				}
-			break;
+				else {
+				}break;
 			case "b":
 				System.out.println("Digite la cantidad solicitada por el cliente");
 				cant = leer.nextInt();
-				switch (cant) {
-					case 501:
-						valort=cant*800*1.8;
-						break;
-					case 500:
-						valort=cant*1400*1.11;
-						break;
-				default:
-				}	
-			break;
-	
+				if (cant >= 501) {
+					valort=cant*800*1.8;
+				}else if (cant < 500) {
+					valort=cant*1400*1.11;
+				}else {
+				}break;
 			case "c":
 				System.out.println("Digite la cantidad solicitada por el cliente");
 				cant = leer.nextInt();
-				switch (cant) {
-					case 501:
-						valort=cant*1000*1.5;
-						break;
-					case 500:
-						valort=cant*1600*1.10;
-						break;
-				default:
-				}
-			break;
-	
-
-		default:
+				if (cant >= 501) {
+					valort=cant*1000*1.5;
+				}else if (cant < 500) {
+					valort=cant*1600*1.10;
+				}else {
+				}break;
+			
+	default:
 			System.out.println("ingresar un codigo valido");
 			}
 					
